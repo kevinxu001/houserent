@@ -74,6 +74,7 @@
 			    <br />
 			    	Contact me: {{.Email}}
 			    </p>
+			    <div>{{.DBHost}}</div>
 			  </div>
 			</div>
 			</div>
